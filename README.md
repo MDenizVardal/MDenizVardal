@@ -11,6 +11,7 @@ Building a serverless Azure backend for an automated parking detection system at
 | Project | What it is | Stack |
 |---|---|---|
 | [Gülsa Emlak](https://github.com/MDenizVardal/gulsa-emlak) | Desktop app for a real estate agency: listings, map view, agents, statistics, live updates | Electron, React, Express, SQLite, Socket.IO |
+| [AI Image Classifier](https://github.com/MDenizVardal/ai-image-classifier) | Classifies images against your own reference set, comparing perceptual hashing with ResNet50 embeddings | Python, PyTorch, OpenCV, ImageHash |
 | [Netflix Big Data Pipeline](https://github.com/MDenizVardal/BDPNetflixDataSet) | End-to-end GCP pipeline: 5 ingestion types, medallion lake, star schema, K-Means clustering, dashboard (team project) | PySpark, BigQuery, BigQuery ML, Pub/Sub, Streamlit |
 | [Smart Home IoT System](https://github.com/bunyaminsaka/IOT) | IoT smart home hub on Azure: MQTT broker, device simulators, REST API, dashboard (team project) | Azure, Bicep, MQTT, Cosmos DB |
 | [JavaScript Quiz App](https://github.com/MDenizVardal/ModernJava-typescript) | Quiz game with a streak-based combo multiplier and custom JSON question sets | React, Vite |
